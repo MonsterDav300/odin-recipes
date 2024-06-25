@@ -1,0 +1,41 @@
+.index-main-div {
+    background-color: beige;
+    padding: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+    max-width: fit-content;
+    margin-inline: auto;
+}
+
+.index-list {
+    background-color: burlywood;
+    width: auto;
+    text-align: center;
+    font-size: 40px;
+}
+
+.pictures {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: auto;
+    width: 50%;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    text-align: center;
+    background-color: beige;
+    max-width: fit-content;
+    margin-inline: auto;
+    padding: 5px;
+}
+
+li,
+p {
+    background-color: whitesmoke;
+    max-width: fit-content;
+    padding: 5px;
+}
